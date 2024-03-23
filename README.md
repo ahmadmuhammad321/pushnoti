@@ -1,6 +1,6 @@
 # pushnoti
 
-A new Flutter project.
+Firebase Push Notifcations Implementation.
 
 ## Getting Started
 
